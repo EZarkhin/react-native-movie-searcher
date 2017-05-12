@@ -1,4 +1,4 @@
-#Movies Searcher
+# Movies Searcher
 
 Mobile project application based on React Native which fetch some data from TMDb API and save it on device storage
 
@@ -23,4 +23,4 @@ Mobile project application based on React Native which fetch some data from TMDb
 
 
 ## Demo
-![Demo Movies Searcher App](https://gifyu.com/images/moviesSearcher.gif)
+<img src="https://gifyu.com/images/moviesSearcher.md.gif" height="500" />
