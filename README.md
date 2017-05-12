@@ -23,4 +23,4 @@ Mobile project application based on React Native which fetch some data from TMDb
 
 
 ## Demo
-<img src="https://gifyu.com/images/moviesSearcher.md.gif" height="500" />
+
